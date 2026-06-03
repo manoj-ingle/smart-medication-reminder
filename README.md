@@ -1,15 +1,24 @@
 # MediAlert
-A simple Android app that helps users remember to take medicines on time.
+
+MediAlert is an Android-based Smart Medicine Reminder application that helps users manage medication schedules through reminders, notifications, and voice alerts.
 
 ## Features
-* Add Medicine Reminders
-* Daily, Weekly & Monthly Alerts
-* Voice Notifications
-* Offline Storage
-* User Login & Registration
+- User Registration & Login
+- Add and Manage Medicines
+- Daily, Weekly, 15-Day & Monthly Reminders
+- Notification Alerts
+- Text-to-Speech Voice Reminders
+- SQLite Database Storage
+- Offline Support
 
-## Built With
-* Java
-* XML
-* Android Studio
-* SQLite
+## Tech Stack
+- Java
+- XML
+- Android Studio
+- SQLite
+- AlarmManager
+- Notification Manager
+- Text-to-Speech (TTS)
+
+## Screenshots
+(Add screenshots here)
