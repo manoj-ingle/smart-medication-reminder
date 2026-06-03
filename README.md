@@ -19,6 +19,3 @@ MediAlert is an Android-based Smart Medicine Reminder application that helps use
 - AlarmManager
 - Notification Manager
 - Text-to-Speech (TTS)
-
-## Screenshots
-(Add screenshots here)
